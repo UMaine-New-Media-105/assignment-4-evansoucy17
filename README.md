@@ -15,3 +15,8 @@ Question #2- https://editor.p5js.org/evansoucy17/sketches/30saUAv2r
 
 The biggest change made from the original code was the removal of the stems so the pattern works better. This code creates a pattern of flowers without stems using nested loops in p5.js. The flowers are drawn on a 400x400 canvas, with 5 rows and 5 columns of flowers evenly spaced apart. The flower petals are colored red, with a black center, and each flower has 36 petals that are rotated by 10 degrees to create a spiral effect. The code uses the push() and pop() functions to save and restore the current transformation matrix, respectively.
 
+Question #3- https://editor.p5js.org/evansoucy17/sketches/-BSDPcmiQ
+
+For this assignment I made a lot of changes. For this code I added two more flower functions with nested loops to create a more complicated grid pattern.
+I then created a color array and had the code chose a random color in the array for the flower petals every time the code is refreshed. I also went in and modified the code so that every time it is refreshed the number of petals change. I did this by changing the rotate variable to random and setting a limit of how many degrees the petal could rotate. 
+ 
