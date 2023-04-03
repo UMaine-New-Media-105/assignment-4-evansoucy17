@@ -18,5 +18,5 @@ The biggest change made from the original code was the removal of the stems so t
 Question #3- https://editor.p5js.org/evansoucy17/sketches/-BSDPcmiQ
 
 For this assignment I made a lot of changes. For this code I added two more flower functions with nested loops to create a more complicated grid pattern.
-I then created a color array and had the code chose a random color in the array for the flower petals every time the code is refreshed. I also went in and modified the code so that every time it is refreshed the number of petals change. I did this by changing the rotate variable to random and setting a limit of how many degrees the petal could rotate. 
+I then created a color array and had the code chose a random color in the array for the flower petals every time the code is refreshed. I also went in and modified the code so that every time it is refreshed the number of petals change. I did this by changing the rotate variable to random and setting a limit of how many degrees the petal could rotate. When I first did assignment 2 I didn't completely understand that multiple shapes per aquare were required so that is why there is such a drastic change between question 2 and 3.
  
